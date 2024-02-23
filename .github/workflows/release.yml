@@ -3,7 +3,7 @@ name: Release Charts
 on:
   push:
     branches:
-      - issue-632
+      - master
 
 jobs:
   release:
